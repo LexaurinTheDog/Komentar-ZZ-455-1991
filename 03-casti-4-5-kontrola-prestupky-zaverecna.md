@@ -459,13 +459,13 @@ Třetí věta odst. 1 chrání oblasti, kde mlčenlivost je zákonem absolutizov
 >
 > *(4) Na poskytování služeb podle tohoto paragrafu se další ustanovení tohoto zákona nevztahují, s výjimkou*
 >
-> *- a) povinnosti prokázat při kontrole podle § 60a oprávněnost poskytování služeb, a to průkazem totožnosti, dokladem osvědčujícím státní příslušnost, dokladem o tom, že osoba poskytující služby je usazena v členském státě původu a v souladu s jeho právními předpisy vykonává předmětnou činnost, a*
+> *  - a) povinnosti prokázat při kontrole podle § 60a oprávněnost poskytování služeb, a to průkazem totožnosti, dokladem osvědčujícím státní příslušnost, dokladem o tom, že osoba poskytující služby je usazena v členském státě původu a v souladu s jeho právními předpisy vykonává předmětnou činnost, a*
 >
-> *- b) povinnosti osoby poskytující služby zajistit výkon činností, které jsou obsahem živností uvedených v příloze č. 5 k tomuto zákonu, pouze fyzickými osobami splňujícími požadavky odborné způsobilosti, které tato příloha stanoví; [...]*
+> *  - b) povinnosti osoby poskytující služby zajistit výkon činností, které jsou obsahem živností uvedených v příloze č. 5 k tomuto zákonu, pouze fyzickými osobami splňujícími požadavky odborné způsobilosti, které tato příloha stanoví; podmínka odborné způsobilosti pro účely této přílohy se považuje za splněnou, doloží-li osoba poskytující služby za osoby v závislém postavení vykonávající činnosti podle tohoto zákona doklad o jejich vzdělání, které je v členském státě původu odborně připravuje pro výkon předmětné regulované činnosti, nebo není-li předmětná činnost v členském státě původu regulována, doklad o tom, že předmětnou činnost vykonávaly v jednom nebo více členských státech nejméně po dobu jednoho roku během předcházejících deseti let.*
 >
-> *(5) Fyzické osoby uvedené v odstavci 1 poskytující služby v činnosti, která je živností a pro jejíž provozování se vyžaduje splnění zvláštní podmínky odborné způsobilosti podle § 7 (dále jen „regulovaná činnost"), jsou povinny písemně oznámit poskytování služeb na území České republiky uznávacímu orgánu, včetně doložení dokladů, podle zvláštního právního předpisu. Na právnické osoby uvedené v odstavci 2 se § 36a zákona o uznávání odborné kvalifikace vztahuje přiměřeně. [...]*
+> *(5) Fyzické osoby uvedené v odstavci 1 poskytující služby v činnosti, která je živností a pro jejíž provozování se vyžaduje splnění zvláštní podmínky odborné způsobilosti podle § 7 (dále jen „regulovaná činnost“), jsou povinny písemně oznámit poskytování služeb na území České republiky uznávacímu orgánu, včetně doložení dokladů, podle zvláštního právního předpisu43). Na právnické osoby uvedené v odstavci 2 se § 36a zákona o uznávání odborné kvalifikace vztahuje přiměřeně. Doklad o odborné kvalifikaci nebo praxi dokládá u právnické osoby jí ustanovená osoba, která odpovídá za řádné poskytování služby.*
 >
-> *(6) U osob poskytujících služby v regulovaných činnostech, které jsou živnostmi, je živnostenský úřad oprávněn při kontrole podle § 60a kontrolovat splnění povinnosti písemně oznámit poskytování služby uznávacímu orgánu. Živnostenský úřad může kontrolovat též plnění povinnosti osoby poskytující služby zajistit výkon činností, které jsou obsahem živností uvedených v příloze č. 5 k tomuto zákonu, pouze fyzickými osobami splňujícími požadavky odborné způsobilosti.*
+> *(6) U osob poskytujících služby v regulovaných činnostech, které jsou živnostmi, je živnostenský úřad oprávněn při kontrole podle § 60a kontrolovat splnění povinnosti písemně oznámit poskytování služby uznávacímu orgánu44). Živnostenský úřad může kontrolovat též plnění povinnosti osoby poskytující služby zajistit výkon činností, které jsou obsahem živností uvedených v příloze č. 5 k tomuto zákonu, pouze fyzickými osobami splňujícími požadavky odborné způsobilosti.*
 
 **Výklad:**
 
@@ -514,18 +514,25 @@ Porušení povinností dle § 69a odst. 4 a 5 je přestupkem dle § 62 odst. 2 a
 >
 > *(1) Pro účely tohoto zákona se považuje za občana členského státu Evropské unie i*
 >
-> *- a) občan jiného smluvního státu Dohody o Evropském hospodářském prostoru a občan Švýcarské konfederace,*
-> *- b) rodinný příslušník občana Evropské unie nebo osoby uvedené v písmenu a),*
-> *- c) osoba, která má na území České republiky povolen trvalý pobyt, a její rodinný příslušník,*
-> *- d) občan třetí země, kterému bylo na území České republiky nebo jiného členského státu Evropské unie přiznáno právní postavení dlouhodobě pobývajícího rezidenta,*
-> *- e) občan třetí země, kterému byl na území České republiky nebo jiného členského státu Evropské unie povolen pobyt za účelem vědeckého výzkumu, studia, stáže nebo dobrovolnické služby v Evropské dobrovolné službě,*
-> *- f) rodinný příslušník osoby uvedené v písmenu d) nebo e), kterému byl na území České republiky povolen dlouhodobý pobyt,*
-> *- g) občan třetí země, který je obětí obchodování s lidmi nebo obdržel pomoc k nedovolenému přistěhovalectví a který spolupracuje s příslušnými orgány, byl-li mu na území České republiky nebo jiného členského státu Evropské unie povolen pobyt za tímto účelem,*
-> *- h) držitel modré karty Evropské unie.*
+> *  - a) občan jiného smluvního státu Dohody o Evropském hospodářském prostoru a občan Švýcarské konfederace,*
+>
+> *  - b) rodinný příslušník občana Evropské unie nebo osoby uvedené v písmenu a)61),*
+>
+> *  - c) osoba, která má na území České republiky povolen trvalý pobyt, a její rodinný příslušník,*
+>
+> *  - d) občan třetí země, kterému bylo na území České republiky nebo jiného členského státu Evropské unie přiznáno právní postavení dlouhodobě pobývajícího rezidenta62),*
+>
+> *  - e) občan třetí země, kterému byl na území České republiky nebo jiného členského státu Evropské unie povolen pobyt za účelem vědeckého výzkumu, studia, stáže nebo dobrovolnické služby v Evropské dobrovolné službě63),*
+>
+> *  - f) rodinný příslušník osoby uvedené v písmenu d) nebo e), kterému byl na území České republiky povolen dlouhodobý pobyt64),*
+>
+> *  - g) občan třetí země, který je obětí obchodování s lidmi nebo obdržel pomoc k nedovolenému přistěhovalectví a který spolupracuje s příslušnými orgány, byl-li mu na území České republiky nebo jiného členského státu Evropské unie povolen pobyt za tímto účelem66),*
+>
+> *  - h) držitel modré karty Evropské unie67).*
 >
 > *(2) Na osoby uvedené v odstavci 1 písm. c) až h) se nevztahuje oprávnění podle § 69a.*
 >
-> *(3) Za právnickou osobu se sídlem na území členského státu Evropské unie se pro účely tohoto zákona považuje právnická osoba, jejíž vnitřní poměry se řídí právním řádem členského státu Evropské unie, nebo jiného smluvního státu Dohody o Evropském hospodářském prostoru, a která má sídlo, ústřední správu nebo hlavní místo své podnikatelské činnosti na území členského státu Evropské unie, nebo jiného smluvního státu Dohody o Evropském hospodářském prostoru. [...]*
+> *(3) Za právnickou osobu se sídlem na území členského státu Evropské unie se pro účely tohoto zákona považuje právnická osoba, jejíž vnitřní poměry se řídí právním řádem členského státu Evropské unie, nebo jiného smluvního státu Dohody o Evropském hospodářském prostoru, a která má sídlo, ústřední správu nebo hlavní místo své podnikatelské činnosti na území členského státu Evropské unie, nebo jiného smluvního státu Dohody o Evropském hospodářském prostoru. Za osobu podle předchozí věty se za podmínek a v rozsahu stanoveném mezinárodní smlouvou o volném pohybu osob považuje také právnická osoba, jejíž vnitřní poměry se řídí právním řádem Švýcarské konfederace a má sídlo, ústřední správu nebo hlavní místo své podnikatelské činnosti na území Švýcarské konfederace.*
 >
 > *(4) Pokud tento zákon požaduje předložení dokladů vydaných příslušným orgánem členského státu Evropské unie nebo výkon podnikatelské činnosti na území členského státu Evropské unie, rozumí se tím i doklady vydané příslušným orgánem smluvního státu Dohody o Evropském hospodářském prostoru a doklady vydané příslušným orgánem Švýcarské konfederace a výkon činnosti na území těchto států.*
 
@@ -569,8 +576,6 @@ Doklady (osvědčení o odborné způsobilosti, výpisy z rejstříků apod.) vy
 
 > **§ 71**
 >
-> ##### Místní příslušnost
->
 > *(1) Podání podle tohoto zákona lze učinit u kteréhokoliv obecního živnostenského úřadu. K postupu podle tohoto zákona je příslušný obecní živnostenský úřad, kterému bylo podání doručeno jako prvnímu.*
 >
 > *(2) V řízení o zrušení živnostenského oprávnění nebo pozastavení provozování živnosti se místní příslušnost živnostenského úřadu určuje podle správního řádu; to neplatí, jedná-li se o zrušení živnostenského oprávnění na žádost podnikatele.*
@@ -579,7 +584,7 @@ Doklady (osvědčení o odborné způsobilosti, výpisy z rejstříků apod.) vy
 >
 > *(4) Živnostenský úřad, který provede úkon, v jehož důsledku je třeba provést zápis do živnostenského rejstříku, je příslušný k provedení tohoto zápisu.*
 >
-> *(5) Sestavu podle § 60 odst. 6 vydává podle své územní působnosti obecní živnostenský úřad, krajský živnostenský úřad nebo Živnostenský úřad České republiky. [...]*
+> *(5) Sestavu podle § 60 odst. 6 vydává podle své územní působnosti obecní živnostenský úřad, krajský živnostenský úřad nebo Živnostenský úřad České republiky. Sestavu podle adresy sídla vydá živnostenský úřad, v jehož územním obvodu podnikatel sídlí. Sestavu podle umístění provozovny vydá živnostenský úřad, v jehož územním obvodě se provozovna nachází. Sestavu podle předmětu podnikání vydá živnostenský úřad, v jehož územním obvodě má sídlo nebo provozovnu podnikatel s požadovaným předmětem podnikání.*
 >
 > *(6) Uvede-li ohlašovatel živnosti v ohlášení nebo žadatel o koncesi v žádosti adresu pro doručování podle § 45 odst. 2 písm. k) nebo podle § 45 odst. 3 písm. h), jsou všechny živnostenské úřady povinny mu doručovat na uvedenou adresu; to neplatí, pokud má tato osoba zřízenu datovou schránku.*
 
@@ -699,15 +704,13 @@ Tímto zmocněním je vydáno **nařízení vlády č. 278/2008 Sb., o obsahový
 
 > **§ 74**
 >
-> ##### Zachování dosavadních oprávnění
->
 > *(1) V podnikatelské činnosti, která je živností podle tohoto zákona, mohou fyzické a právnické osoby pokračovat po dobu jednoho roku ode dne, kdy zákon nabude účinnosti, na základě oprávnění k podnikatelské činnosti nebo podnikatelského oprávnění, které získaly před jeho účinností. Po uplynutí lhůty tato oprávnění zanikají.*
 >
 > *(2) Fyzické osoby, kterým uplynutím lhůty podle odstavce 1 zanikne oprávnění k podnikatelské činnosti v živnosti volné nebo řemeslné, nabývají současně živnostenského oprávnění k těmto živnostem. Živnostenský list vydá živnostenský úřad ve lhůtě stanovené v odstavci 1.*
 >
-> *(3) Fyzické osoby, které ke dni nabytí účinnosti zákona mají oprávnění k podnikatelské činnosti v živnosti vázané nebo koncesované, předloží živnostenskému úřadu ve lhůtě 9 měsíců od účinnosti tohoto zákona doklady prokazující, že splňují podmínky stanovené zákonem nebo že ustanovily odpovědného zástupce, který podmínky splňuje. [...]*
+> *(3) Fyzické osoby, které ke dni nabytí účinnosti zákona mají oprávnění k podnikatelské činnosti v živnosti vázané nebo koncesované, předloží živnostenskému úřadu ve lhůtě 9 měsíců od účinnosti tohoto zákona doklady prokazující, že splňují podmínky stanovené zákonem nebo že ustanovily odpovědného zástupce, který podmínky splňuje. Za tohoto předpokladu vydá živnostenský úřad ve lhůtě 60 dnů od předložení dokladů živnostenský list nebo koncesní listinu.*
 >
-> *(4) Právnické osoby, které mají ke dni účinnosti zákona podnikatelské oprávnění k činnostem, které jsou živnostmi, předloží živnostenskému úřadu ve lhůtě 9 měsíců od účinnosti tohoto zákona doklady prokazující, že ustanovily odpovědného zástupce, který splňuje podmínky podle zákona. [...]*
+> *(4) Právnické osoby, které mají ke dni účinnosti zákona podnikatelské oprávnění k činnostem, které jsou živnostmi, předloží živnostenskému úřadu ve lhůtě 9 měsíců od účinnosti tohoto zákona doklady prokazující, že ustanovily odpovědného zástupce, který splňuje podmínky podle zákona. Za tohoto předpokladu vydá živnostenský úřad ve lhůtě 60 dnů od předložení dokladů živnostenský list nebo koncesní listinu.*
 >
 > *(5) Jestliže osoby uvedené v odstavcích 3 a 4 živnostenskému úřadu doklady nepředloží nebo jimi neprokáží splnění podmínek pro provozování živnosti, živnostenské oprávnění jim nevznikne. V pochybnostech rozhodne o tom, zda podmínky provozování živnosti splněny jsou, živnostenský úřad.*
 
@@ -840,15 +843,23 @@ Dnes je ustanovení reliktem; aktuální překážky stanoví § 8 ŽZ ve vazbě
 
 > **§ 80**
 >
-> ##### Zrušovací ustanovení
->
 > *Ke dni účinnosti tohoto zákona se zrušuje:*
 >
-> *1. zákon č. 105/1990 Sb., o soukromém podnikání občanů, ve znění zákona č. 219/1991 Sb., kromě § 12a až 12e,*
+> *    - 1. zákon č. 105/1990 Sb., o soukromém podnikání občanů, ve znění zákona č. 219/1991 Sb., kromě § 12a až 12e,*
 >
-> *2. § 2 dekretu prezidenta republiky č. 100/1945 Sb., o znárodnění dolů a některých průmyslových podniků, ve znění zákona č. 114/1948 Sb. [...],*
+> *    - 2. § 2 dekretu prezidenta republiky č. 100/1945 Sb., o znárodnění dolů a některých průmyslových podniků, ve znění zákona č. 114/1948 Sb., o znárodnění některých dalších průmyslových a jiných podniků a závodů a o úpravě některých poměrů znárodněných a národních podniků,*
 >
-> *3.–8. [§§ vybraných znárodňovacích zákonů z let 1948 a 1950]*
+> *    - 3. § 4 zákona č. 114/1948 Sb., o znárodnění některých dalších průmyslových a jiných podniků a závodů a o úpravě některých poměrů znárodněných a národních podniků,*
+>
+> *    - 4. § 3 zákona č. 115/1948 Sb., o znárodnění dalších průmyslových a jiných výrobních podniků a závodů v oboru potravinářském a o úpravě některých poměrů znárodněných a národních podniků tohoto oboru, ve znění zákona č. 108/1950 Sb., kterým se mění a doplňují předpisy o znárodnění některých podniků průmyslu potravinářského,*
+>
+> *    - 5. § 3 zákona č. 120/1948 Sb., o znárodnění obchodních podniků s 50 nebo více činnými osobami,*
+>
+> *    - 6. § 1 odst. 2 zákona č. 121/1948 Sb., o znárodnění ve stavebnictví, ve znění zákona č. 58/1951 Sb., kterým se mění a doplňuje zákon o znárodnění ve stavebnictví,*
+>
+> *    - 7. § 3 zákona č. 123/1948 Sb., o znárodnění polygrafických podniků,*
+>
+> *    - 8. § 8 zákona č. 124/1948 Sb., o znárodnění některých hostinských a výčepnických podniků a ubytovacích zařízení.*
 
 **Výklad:**
 
