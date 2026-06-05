@@ -11,6 +11,10 @@ Veřejnoprávní úprava živnostenského podnikání v ČR.
 ## Metoda
 AI komentář **výhradně z lokálních materiálů**, **bez konkrétních spzn**.
 
+## Důvodová zpráva
+
+Původní **důvodová zpráva** k zákonu (z dobového sněmovního tisku, digitální knihovna Poslanecké sněmovny ČR) je k dispozici v souboru [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) — podklad pro historický a teleologický výklad jednotlivých ustanovení.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
