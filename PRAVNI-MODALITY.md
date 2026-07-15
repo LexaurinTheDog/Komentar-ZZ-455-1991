@@ -144,3 +144,170 @@ Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativ
 | Zmocnění | úřad může; rozhodne; ustanoví; vydá | [§ 8](https://e-sbirka.gov.cz/sb/1991/455#par_8); [§ 10](https://e-sbirka.gov.cz/sb/1991/455#par_10); [§ 11](https://e-sbirka.gov.cz/sb/1991/455#par_11); [§ 28](https://e-sbirka.gov.cz/sb/1991/455#par_28); [§ 47](https://e-sbirka.gov.cz/sb/1991/455#par_47) |
 | Oprávnění a povinnost | musí; je oprávněn; je povinen; odpovídá za | [§ 5](https://e-sbirka.gov.cz/sb/1991/455#par_5); [§ 6](https://e-sbirka.gov.cz/sb/1991/455#par_6); [§ 7](https://e-sbirka.gov.cz/sb/1991/455#par_7); [§ 8](https://e-sbirka.gov.cz/sb/1991/455#par_8); [§ 11](https://e-sbirka.gov.cz/sb/1991/455#par_11) |
 | Domněnky, fikce a účinkové konstrukce | platí, že; má se za to; považuje se za | [§ 6](https://e-sbirka.gov.cz/sb/1991/455#par_6); [§ 54](https://e-sbirka.gov.cz/sb/1991/455#par_54); [§ 69a](https://e-sbirka.gov.cz/sb/1991/455#par_69a); [§ 70](https://e-sbirka.gov.cz/sb/1991/455#par_70) |
+
+---
+
+<!-- VYKLAD-RIHA-MODALITY -->
+## Systematické zpracování právních modalit (rozšířený výklad)
+
+> Rozšířený, systematicky členěný rozbor modalit v předpisu zákon č. 455/1991 Sb., živnostenský zákon (ŽZ) — doplňuje výše uvedený přehled. Klasifikace je provedena na doslovném znění citovaném v repu; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). Souvislost se zásadami viz [ZASADY.md](ZASADY.md).
+
+### Teorie právních modalit — nauka
+
+Právní modality vyjadřují způsob, jímž norma spojuje s určitou skutkovou podstatou právní následek. Nauka rozlišuje **objektivní modality** (deontické operátory působící na jednání adresáta v rovině objektivního práva) a **subjektivní modality** (postavení konkrétního subjektu v právním vztahu). Mezi objektivní modality patří **příkaz** (uložení povinnosti konat), **zákaz** (uložení povinnosti zdržet se) a **dovolení** (vymezení dovoleného prostoru jednání). Deontická logika ukazuje, že tyto operátory jsou vzájemně převoditelné: zákaz je příkazem opomenutí, dovolení negací zákazu. V živnostenském zákoně, který je předpisem veřejného práva na pomezí správního práva hmotného a procesního, se všechny tři operátory prolínají — zákon zároveň reguluje jednání podnikatele a zakládá pravomoci správního orgánu.
+
+Zvláštní postavení mají **zmocnění** (kompetenční normy). Nejde o povinnost ani o pouhou možnost jednotlivce, nýbrž o svěření **pravomoci a působnosti** veřejnému orgánu (živnostenskému úřadu, obci, vládě) k vydání individuálního nebo normativního aktu. Kompetenční norma je konstitutivní podmínkou zákonnosti výkonu veřejné moci ve smyslu čl. 2 odst. 3 Ústavy a čl. 2 odst. 2 Listiny: orgán může činit jen to, co mu zákon výslovně dovoluje. V ŽZ se zmocnění projevují jak jako obligatorní pravomoci („úřad zruší“), tak jako fakultativní diskrece se správním uvážením („úřad může prominout“, „může zrušit nebo pozastavit“).
+
+**Subjektivní modality** postihují korelativní dvojici **oprávnění—povinnost**: subjektivnímu právu jednoho účastníka odpovídá povinnost druhého (korelativita). Živnostenský zákon zakládá jak subjektivní práva podnikatele (právo provozovat živnost, právo přizvat třetí osobu ke kontrole, právo rozšířit činnost o doprovodné úkony), tak jeho veřejnoprávní povinnosti (ohlašovací, oznamovací, značící). Normativní výrazy signalizují modalitu jazykově: „je povinen“, „musí“ (příkaz/povinnost); „nesmí“, „nemůže“, „nelze“, „jsou zakázány“ (zákaz); „může“, „je oprávněn“, „lze“ (dovolení/oprávnění); „stanoví“, „vydá“, „rozhodne“, „zruší“ (zmocnění).
+
+Konečně **domněnky a fikce** upravují dokazování a subsumpci. **Vyvratitelná domněnka** (praesumptio iuris) přesouvá důkazní břemeno a připouští důkaz opaku („má se za to“); **nevyvratitelná domněnka** důkaz opaku vylučuje. **Fikce** (fictio iuris) staví najisto něco, o čem se ví, že neodpovídá skutečnosti, a to z ryze normativních důvodů („platí, že“, „považuje se za“). V ŽZ plní domněnky a fikce funkci vstupních filtrů do podnikání (bezúhonnost), ochrany kontinuity vzniku oprávnění (zhojení vad ex tunc) i rozšíření osobní působnosti (pojem občana EU).
+
+### Příkaz
+
+Příkaz v živnostenském zákoně ukládá adresátovi — nejčastěji podnikateli, v části procesní a dozorové též živnostenskému úřadu a součinnostním orgánům — povinnost konat konkrétní úkon, zpravidla lhůtní a formalizovaný. Typicky jde o **ohlašovací a oznamovací povinnosti**, jimiž zákon zajišťuje aktuálnost údajů v živnostenském rejstříku a průběžný přehled o osobě a činnosti podnikatele. Příkaz je zde nástrojem transparentnosti a dohledatelnosti: bez splnění ohlašovacího úkonu podle § 45 odst. 1 živnostenské oprávnění ohlašovací živnosti vůbec nevznikne.
+
+Příkazy směřují rovněž vůči orgánům veřejné moci a upevňují tok informací mezi nimi. Ustanovení § 60a odst. 2 ukládá živnostenskému úřadu při incidentně zjištěném porušení bezodkladně informovat správce spotřební daně; § 68 odst. 1 zakládá lhůtní informační povinnost dozorových orgánů vůči úřadu, čímž vzniká podklad pro navazující postup podle § 58. Zvláštní skupinu tvoří příkazy **výsledkové** vůči úřadu — § 47 odst. 1 ukládá při bezvadném ohlášení provést zápis a vydat výpis v pevné pětidenní lhůtě, čímž je garantován rychlý deklaratorní režim ohlašovacích živností.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 45 odst. 1 | je povinna to ohlásit | „je povinna to ohlásit živnostenskému úřadu“ | Úkon, bez něhož oprávnění nevznikne |
+| § 31 odst. 1 | je povinen zajistit | „je povinen zajistit jeho účast při provozování živnosti v potřebném rozsahu“ | Reálná účast odpovědného zástupce |
+| § 17 odst. 7 | musí být označena | „Provozovna musí být trvale a zvenčí viditelně označena obchodní firmou nebo názvem nebo jménem a příjmením podnikatele“ | Trvalé identifikační označení provozovny |
+| § 11 odst. 5 | je povinen oznámit do 15 dnů | „je podnikatel povinen oznámit živnostenskému úřadu do 15 dnů ode dne, kdy uvedená skutečnost nastala“ | Lhůtní oznamovací povinnost k odp. zástupci |
+| § 47 odst. 1 | provede a vydá | „provede živnostenský úřad zápis do živnostenského rejstříku do 5 pracovních dnů ode dne doručení ohlášení a vydá podnikateli výpis“ | Lhůtní povinnost úřadu zapsat a vydat výpis |
+| § 60a odst. 2 | sdělí bezodkladně | „Zjistí-li, že došlo k porušení povinnosti, sdělí tuto skutečnost bezodkladně správci spotřební daně.“ | Bezodkladná informační povinnost k SD |
+| § 68 odst. 1 | zasílají opis rozhodnutí ve lhůtě 30 dnů | „zasílají opis rozhodnutí, kterým bylo rozhodnuto o závažném porušení zvláštních předpisů podnikatelem, příslušnému živnostenskému úřadu ve lhůtě 30 dnů ode dne nabytí právní moci tohoto rozhodnutí“ | Lhůtní informační povinnost dozorových orgánů |
+
+Judikatorní ilustrace potvrzuje výsledkový příkaz úřadu podle § 47 odst. 1 i pojetí kontroly podle § 60a jako projevu dozoru, nikoli zásahu do osobnostních práv podnikatele:
+
+- *NSS* [4 As 74/2017 - 34](judikatura/NSS-4-As-74-2017-34.md) — rozsudek z 25. 5. 2017, k lhůtnímu příkazu zápisu a vydání výpisu (§ 47 odst. 1).
+  > „Na stejných principech je založeno např. ohlašování živností volných i v současné době: podle § 47 odst. 1 zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), splnil-li ohlašovatel všechny podmínky stanovené zákonem, provede živnostenský úřad zápis do živnostenského rejstříku do 5 pracovních dnů ode dne doručení ohlášení a vydá podnikateli výpis"
+- *NSS* [31 A 11/2013 - 70](judikatura/NSS-31-A-11-2013-70.md) — rozsudek ze 4. 3. 2015, k povaze živnostenské kontroly (§ 60a).
+  > „provádění kontroly u podnikatele nepředstavuje zásah do jeho osobnostních práv (čl. 10 Listiny základních práv a svobod), nýbrž je projevem dozoru nad dodržováním podmínek a omezení pro výkon určitých činností podle čl. 26 odst. 2 Listiny"
+
+### Zákaz
+
+Zákaz uzavírá adresátovi určitý prostor jednání. V živnostenském zákoně plní zákazy dvojí funkci: **vstupní filtr** (překážky provozování živnosti) a **ochranu veřejného zájmu** při vlastním výkonu podnikání. Časová překážka podle § 8 odst. 1 navázaná na konkurs a kvantitativní limit funkcí odpovědného zástupce podle § 11 odst. 1 brání tomu, aby živnost provozovaly osoby nezpůsobilé garantovat její řádný chod. Zákaz převodu oprávnění podle § 10 odst. 7 vyjadřuje **osobní (nepřenositelnou) povahu** živnostenského oprávnění, které je vázáno na osobu podnikatele a nepřechází převodem závodu.
+
+Další zákazy chrání specifické veřejné statky: § 31 odst. 7 přetíná kanál legalizace výnosů z trestné činnosti zákazem transakce při nemožnosti identifikace (AML); § 18 odst. 4 umožňuje obci nařízením zcela zakázat některé formy prodeje mimo provozovnu. Procesní zákaz podle § 61 odst. 5 vylučuje zkrácené projednání závažnějších přestupků příkazem na místě a vynucuje řádné dokazování. Aplikačně zvláštní je § 73, který promítá čl. 10 Ústavy do živnostenského práva a **vylučuje** aplikaci ŽZ v rozsahu kolize s mezinárodní smlouvou.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 8 odst. 1 | nemůže provozovat | „Živnost nemůže provozovat fyzická nebo právnická osoba, na jejíž majetek byl prohlášen konkurs“ | Časová překážka navázaná na konkurs |
+| § 10 odst. 7 | nemůže být přeneseno | „Živnostenské oprávnění nemůže být přeneseno na jinou osobu.“ | Osobní, nepřenositelná povaha oprávnění |
+| § 11 odst. 1 | nikdo nemůže být ustanoven | „Nikdo nemůže být ustanoven do funkce odpovědného zástupce pro více než čtyři podnikatele.“ | Kvantitativní limit funkcí |
+| § 31 odst. 7 | nesmí | „nesmí podnikatel zboží koupit, přijmout ho do zástavy nebo zprostředkovat jeho nákup“ | Zákaz transakce při nemožnosti identifikace (AML) |
+| § 18 odst. 4 | jsou zakázány | „Obec může nařízením obce stanovit, že některé formy prodeje zboží nebo poskytování služeb prováděné mimo provozovnu jsou v obci nebo v její části zakázány.“ | Nařízený zákaz forem prodeje mimo provozovnu |
+| § 61 odst. 5 | nelze projednat | „Přestupky podle odstavců 2 a 3 nelze projednat příkazem na místě.“ | Vyloučení zkráceného projednání |
+| § 73 | se nepoužijí | „Ustanovení tohoto zákona se nepoužijí, stanoví-li něco jiného mezinárodní smlouva, jíž je Česká republika vázána“ | Aplikační přednost mezinárodní smlouvy |
+
+Účel překážek provozování živnosti (§ 8) potvrdil Nejvyšší správní soud:
+
+- *NSS* [8 As 14/2016 - 44](judikatura/NSS-8-As-14-2016-44.md) — rozsudek ze 7. 6. 2016, k účelu překážek provozování živnosti (§ 8).
+  > „Účelem překážek provozování živnosti podle § 8 odst. 6 živnostenského zákona je zamezit po určitou dobu v podnikání těm, kteří neplní své povinnosti a závazky vůči státu vyplývající z právních předpisů."
+
+### Dovolení
+
+Dovolení vymezuje prostor dovoleného jednání a je jádrem svobody podnikání (čl. 26 Listiny). Základní dovolující normou je § 5 odst. 1, který zakládá obecnou možnost fyzické i právnické osoby provozovat živnost při splnění zákonných podmínek; koncese je zde koncipována jako výjimka. Unijní rozměr má § 69a odst. 1, jenž transponuje svobodu poskytování služeb podle čl. 56 SFEU a umožňuje podnikateli usazenému v jiném členském státě dočasně působit v ČR bez tuzemského oprávnění.
+
+Na straně veřejné moci se dovolení projevuje jako **fakultativní (diskreční) pravomoc** správního orgánu. Ustanovení § 58 odst. 3 svěřuje úřadu možnost oprávnění zrušit či pozastavit při závažném porušení podmínek — jde o správní uvážení, jehož soudní přezkum se omezuje na dodržení jeho mezí. Sankční dovolení otevírá § 62 odst. 4, který za provozní přestupky podnikatele umožňuje uložit pokutu odstupňovanou podle intenzity ohrožení veřejného zájmu.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 5 odst. 1 | může provozovat | „Živnost může provozovat fyzická nebo právnická osoba, splní-li podmínky stanovené tímto zákonem“ | Obecná možnost provozovat živnost |
+| § 69a odst. 1 | může dočasně poskytovat služby | „může na území České republiky dočasně poskytovat služby v rozsahu svého podnikatelského oprávnění“ | Unijní svoboda poskytování služeb |
+| § 58 odst. 3 | může zrušit nebo pozastavit | „Živnostenský úřad může živnostenské oprávnění zrušit nebo v odpovídajícím rozsahu provozování živnosti pozastavit“ | Diskreční sankční pravomoc úřadu |
+| § 62 odst. 4 | lze uložit pokutu | „Za přestupek lze uložit pokutu“ | Možnost uložit sankci za provozní přestupek |
+
+Diskreční povahu zrušení oprávnění podle § 58 odst. 3 vyložil Nejvyšší správní soud:
+
+- *NSS* [9 A 84/2023 - 46](judikatura/NSS-9-A-84-2023-46.md) — rozsudek z 29. 1. 2025, ke správnímu uvážení při zrušení oprávnění (§ 58 odst. 3).
+  > „Zrušení živnostenského oprávnění podle § 58 odst. 3 zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), je na správním uvážení živnostenského úřadu. Soud při přezkoumávání takového rozhodnutí nehodnotí výsledek úvahy správního úřadu, nýbrž pouze to, zda úřad při rozhodování nepřekročil meze správního uvážení nebo je nezneužil (§ 78 odst. 1 s. ř. s.)"
+
+### Zmocnění
+
+Zmocnění (kompetenční normy) svěřují veřejným orgánům pravomoc a působnost. Živnostenský zákon zmocňuje na třech úrovních: **vládu** k vydání prováděcího nařízení určujícího obsahovou náplň živností (§ 73a) — nezbytný doplněk umožňující subsumpci konkrétních činností; **obec** k regulaci prodeje mimo provozovnu tržním řádem formou nařízení (§ 18 odst. 1) v rámci přenesené působnosti; a především **živnostenský úřad**, jemuž svěřuje širokou paletu individuálních pravomocí.
+
+Pravomoci úřadu se člení na **obligatorní** a **fakultativní**. Obligatorně úřad zruší oprávnění při ztrátě všeobecných podmínek či vzniku překážek (§ 58 odst. 1) a v prvním stupni projednává celý sankční katalog (§ 64 odst. 1). Fakultativně, v režimu správního uvážení, může prominout překážku nedostatku majetku (§ 8 odst. 2) nebo rozhodnutím uložit odstranění nedostatků (§ 60d odst. 1). Deklaratorní pravomoc odstraňující nejistotu o rozsahu oprávnění zakládá § 28 odst. 3; individualizaci podmínek koncese umožňuje § 27 odst. 3, čímž se koncesovaný režim odlišuje od ohlašovacího.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 73a | vláda nařízením stanoví | „Vláda nařízením stanoví obsahovou náplň jednotlivých živností a oborů činností živnosti volné.“ | Zmocnění vlády k prováděcímu nařízení |
+| § 18 odst. 1 | může vydat | „Obec může vydat tržní řád formou nařízení obce.“ | Pravomoc obce regulovat tržním řádem |
+| § 8 odst. 2 | může prominout | „Živnostenský úřad může prominout překážku uvedenou ve větě první nebo druhé, jestliže dlužník prokáže“ | Diskreční prominutí překážky |
+| § 27 odst. 3 | stanoví nebo změní | „Živnostenský úřad stanoví nebo změní podnikateli podmínky provozování živnosti na základě tohoto zákona“ | Individualizace podmínek koncese |
+| § 28 odst. 3 | rozhodne | „V pochybnostech o rozsahu oprávnění rozhodne na žádost podnikatele živnostenský úřad.“ | Deklaratorní rozhodnutí o rozsahu oprávnění |
+| § 58 odst. 1 | zruší | „Živnostenský úřad zruší živnostenské oprávnění, jestliže“ | Obligatorní zrušení oprávnění |
+| § 60d odst. 1 | může rozhodnutím uložit | „Živnostenský úřad může rozhodnutím uložit podnikateli odstranění nedostatků zjištěných při provozování živnosti.“ | Reparačně-regulační opatření |
+| § 64 odst. 1 | projednávají obecní živnostenské úřady | „Přestupky podle tohoto zákona v prvním stupni projednávají obecní živnostenské úřady.“ | Prvostupňová věcná příslušnost |
+
+Kompetenční povahu zmocnění obce (§ 18) a smysl koncesního režimu (§ 27) ilustrují místní zdroje:
+
+- *ÚS* [Pl.ÚS 19/11](judikatura/US-Pl-S-19-11.md) — nález z 31. 1. 2012, ke zmocnění obce regulovat tržním řádem (§ 18).
+  > „Jestliže živnostenský zákon opravňuje obec, aby prostřednictvím tržního řádu regulovala vymezené skutečnosti při prodeji mimo provozovnu (stanovovala konkrétní, místním poměrům přiléhavé a účelné zákazy a podmínky), pak možnost uvedené regulace není samoúčelným omezením základního lidského práva na podnikání, garantovaného čl. 26 odst. 1 Listiny základních práv a svobod."
+- *NSS* [43 Af 1/2021 - 212](judikatura/NSS-43-Af-1-2021-212.md) — rozsudek z 27. 11. 2023, k účelu koncesované živnosti (§ 26 a § 27).
+  > „Práva a povinnosti držitelů licencí na úseku energetického zákona slouží k ochraně veřejného zájmu na tom, aby tyto služby poskytovali pouze dostatečně kvalifikovaní dodavatelé."
+
+### Oprávnění a povinnost
+
+Subjektivní modality zachycují postavení konkrétního subjektu v právním vztahu. **Oprávnění** je subjektivním právem podnikatele: § 34 odst. 1 rozšiřuje oprávnění obchodního podnikatele o doprovodné činnosti (pronájem, zprostředkování) bez potřeby dalšího živnostenského oprávnění, zůstane-li zachována povaha živnosti; § 60c zakládá právo kontrolovaného podnikatele přizvat ke kontrole zvolenou třetí osobu, čímž vyvažuje asymetrii moci při dozoru. Oprávnění a povinnost jsou **korelativní**: právu podnikatele odpovídá povinnost úřadu je respektovat, a naopak.
+
+**Povinnosti** podnikatele mají převážně informační a odbornou povahu. Podnikatel nesplňující zvláštní podmínky je povinen ustanovit odpovědného zástupce (§ 11 odst. 4) a zajistit tak odbornou způsobilost; je povinen předem oznámit zahájení a ukončení provozování živnosti v provozovně (§ 17 odst. 3); ohlašovatel je povinen vymezit předmět podnikání s dostatečnou určitostí (§ 45 odst. 4); přeshraniční poskytovatelé regulovaných činností jsou povinni věc předem písemně oznámit uznávacímu orgánu (§ 69a odst. 5).
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 34 odst. 1 | je oprávněn | „je oprávněn, zůstane-li zachována povaha živnosti, také“ | Rozšíření o doprovodné činnosti |
+| § 60c | je oprávněn přizvat | „Podnikatel je oprávněn přizvat v průběhu kontroly jím zvolenou třetí osobu.“ | Právo na přítomnost zvolené osoby při kontrole |
+| § 11 odst. 4 | je povinen ustanovit | „Odpovědného zástupce je povinen ustanovit“ | Povinnost zajistit odbornou způsobilost |
+| § 17 odst. 3 | je povinen oznámit předem | „Podnikatel je povinen zahájení a ukončení provozování živnosti v provozovně oznámit předem živnostenskému úřadu“ | Předchozí oznámení zahájení/ukončení |
+| § 45 odst. 4 | je povinen vymezit | „Ohlašovatel je povinen vymezit předmět podnikání uvedený v ohlášení s dostatečnou určitostí a jednoznačností.“ | Určité vymezení předmětu podnikání |
+| § 69a odst. 5 | jsou povinny písemně oznámit | „jsou povinny písemně oznámit poskytování služeb na území České republiky uznávacímu orgánu“ | Předchozí oznámení přeshraniční služby |
+
+Institut odpovědného zástupce (§ 11) a jeho odpovědnostní jádro vyložil Nejvyšší správní soud:
+
+- *NSS* [18 A 47/2021 - 35](judikatura/NSS-18-A-47-2021-35.md) — rozsudek ze 4. 5. 2022, k postavení a úkolu odpovědného zástupce (§ 11).
+  > „Odpovědný zástupce je podle § 11 zákona č. 455/1991 Sb., o živnostenské podnikání (dále jen „živnostenský zákon“) fyzická osoba ustanovená podnikatelem, kterému odpovídá za řádný provoz živnosti a za dodržování živnostenskoprávních předpisů a je k němu ve smluvním vztahu. Z uvedeného vyplývá, že hlavním úkolem odpovědného zástupce je odpovídat za odbornou stránku věci"
+
+### Domněnky a fikce
+
+Domněnky a fikce upravují dokazování a subsumpci a v živnostenském zákoně plní funkci filtrů, ochrany kontinuity a rozšíření působnosti. **Negativní domněnkou** vymezuje § 6 odst. 2 kvalifikovaný pojem bezúhonnosti jako vstupní filtr do podnikání (za bezúhonnou se nepovažuje osoba odsouzená pro úmyslný trestný čin v souvislosti s podnikáním). **Procesní fikce** § 6 odst. 4 a § 54 odst. 3 spojují nepředložení opisu cizozemského rozsudku, resp. nedoložení povolení k pobytu, s neodstraněním závad ohlášení, resp. s nesplněním podmínek pro vznik oprávnění.
+
+Ochrannou funkci má **fikce zhojení vad ex tunc** podle § 47 odst. 5, která zpětně odstraňuje vady ohlášení, jsou-li odstraněny ve lhůtě, a chrání tak kontinuitu vzniku oprávnění. **Rozšiřující fikce** § 70 odst. 1 rozšiřuje pojem „občan EU“ na další okruh osob (EHP, Švýcarsko, rezidenti, rodinní příslušníci) pro účely aplikace institutů ŽZ.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 6 odst. 2 | nepovažuje se za | „Za bezúhonnou se pro účely tohoto zákona nepovažuje osoba, která byla pravomocně odsouzena pro trestný čin spáchaný úmyslně“ | Negativní domněnka bezúhonnosti (vstupní filtr) |
+| § 6 odst. 4 | platí, že | „platí, že neodstranila závady ohlášení nebo žádosti o koncesi“ | Procesní fikce u cizozemských rozhodnutí |
+| § 47 odst. 5 | považuje se za bezvadné | „považuje se ohlášení od počátku za bezvadné“ | Fikce zhojení vad ohlášení ex tunc |
+| § 54 odst. 3 | má se za to | „má se za to, že nesplnila podmínky pro vznik živnostenského oprávnění“ | Fikce nesplnění podmínek (cizinec) |
+| § 70 odst. 1 | se považuje za | „Pro účely tohoto zákona se považuje za občana členského státu Evropské unie i“ | Rozšiřující fikce pojmu občana EU |
+
+Proporcionalitu podmínky bezúhonnosti jako filtru vstupu do podnikání (§ 6) posuzoval Ústavní soud:
+
+- *ÚS* [Pl.ÚS 35/08](judikatura/US-Pl-S-35-08.md) — nález ze 7. 4. 2009, k účelu a proporcionalitě podmínky bezúhonnosti (§ 6).
+  > „Smyslem a účelem podmínky bezúhonnosti, omezující základní právo na podnikání, je ochrana základních práv a svobod třetích osob, jež by mohla být podnikáním provozovaným v rozporu s právem a dobrými mravy dotčena. Tato podmínka musí ale splňovat hlediska, jež plynou z principu proporcionality pro posouzení normativního prostředku zajišťujícího jedno a omezujícího jiné základní právo či svobodu"
+
+### Modality v systému předpisu — jak se v klíčových institutech kombinují
+
+Modality se v živnostenském zákoně nevyskytují izolovaně, nýbrž se skládají do provázaných normativních režimů klíčových institutů.
+
+**Vznik oprávnění (ohlašovací režim).** Institut ohlášení kombinuje povinnost adresáta, výsledkový příkaz úřadu a ochrannou fikci. Ohlašovatel je povinen ohlásit (§ 45 odst. 1) a vymezit předmět podnikání s dostatečnou určitostí (§ 45 odst. 4); při bezvadném ohlášení úřad **provede a vydá** výpis v pětidenní lhůtě (§ 47 odst. 1); vady odstraněné ve lhůtě jsou fikcí zhojeny **od počátku** (§ 47 odst. 5). Souhra povinnost → příkaz → fikce zajišťuje rychlý a kontinuitně chráněný deklaratorní vznik oprávnění.
+
+**Odpovědný zástupce.** Zde se řetězí povinnost, zákaz a lhůtní příkaz: podnikatel nesplňující zvláštní podmínky **je povinen ustanovit** odpovědného zástupce (§ 11 odst. 4) a **zajistit** jeho reálnou účast (§ 31 odst. 1); jedna osoba přitom **nemůže** garantovat provoz více než čtyř podnikatelů (§ 11 odst. 1); ustanovení a ukončení funkce **je povinen oznámit do 15 dnů** (§ 11 odst. 5). Modality společně brání ryze formálnímu odpovědnému zástupci.
+
+**Prodej mimo provozovnu.** Kompetenční zmocnění a zákaz se doplňují: obec **může vydat** tržní řád nařízením (§ 18 odst. 1) a nařízením může některé formy prodeje mimo provozovnu zcela **zakázat** (§ 18 odst. 4). Zmocnění je zde nezbytným předpokladem přípustnosti nařízeného zákazu.
+
+**Zrušení a pozastavení oprávnění.** Kombinují se obligatorní a fakultativní pravomoci úřadu: úřad **zruší** oprávnění při ztrátě všeobecných podmínek či překážkách (§ 58 odst. 1), zatímco při závažném porušení podmínek koncese **může zrušit nebo pozastavit** oprávnění ve správním uvážení (§ 58 odst. 3). Podkladem bývá informační příkaz dozorových orgánů (§ 68 odst. 1) a bezodkladné sdělení podle § 60a odst. 2.
+
+**Přeshraniční poskytování služeb.** Unijní dovolení a povinnost se prolínají: podnikatel z jiného členského státu **může dočasně poskytovat služby** (§ 69a odst. 1), avšak u regulovaných činností **jsou povinny** poskytnutí předem písemně oznámit uznávacímu orgánu (§ 69a odst. 5). Dovolení je tak podmíněno předchozí oznamovací povinností.
+
+### Přehledová tabulka — modalita → typické normativní výrazy → reprezentativní ustanovení
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+| --- | --- | --- |
+| Příkaz | je povinen / povinna ohlásit, zajistit, oznámit; musí být označena; provede a vydá; sdělí bezodkladně; zasílají ve lhůtě | § 45 odst. 1, § 31 odst. 1, § 17 odst. 7, § 11 odst. 5, § 47 odst. 1, § 60a odst. 2, § 68 odst. 1 |
+| Zákaz | nemůže provozovat, nemůže být přeneseno, nikdo nemůže být ustanoven, nesmí, jsou zakázány, nelze projednat, se nepoužijí | § 8 odst. 1, § 10 odst. 7, § 11 odst. 1, § 31 odst. 7, § 18 odst. 4, § 61 odst. 5, § 73 |
+| Dovolení | může provozovat, může dočasně poskytovat služby, může zrušit nebo pozastavit, lze uložit pokutu | § 5 odst. 1, § 69a odst. 1, § 58 odst. 3, § 62 odst. 4 |
+| Zmocnění | vláda nařízením stanoví, může vydat, může prominout, stanoví nebo změní, rozhodne, zruší, může rozhodnutím uložit, projednávají | § 73a, § 18 odst. 1, § 8 odst. 2, § 27 odst. 3, § 28 odst. 3, § 58 odst. 1, § 60d odst. 1, § 64 odst. 1 |
+| Oprávnění a povinnost | je oprávněn, je oprávněn přizvat; je povinen ustanovit, oznámit předem, vymezit; jsou povinny písemně oznámit | § 34 odst. 1, § 60c, § 11 odst. 4, § 17 odst. 3, § 45 odst. 4, § 69a odst. 5 |
+| Domněnky a fikce | nepovažuje se za, platí, že; považuje se za bezvadné; má se za to; se považuje za | § 6 odst. 2, § 6 odst. 4, § 47 odst. 5, § 54 odst. 3, § 70 odst. 1 |
