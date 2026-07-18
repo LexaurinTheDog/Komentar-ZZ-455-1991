@@ -25,6 +25,54 @@
 - *NSS* [31 A 11/2013 - 70](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/545170) — 4. 3. 2015
   > „provádění kontroly u podnikatele nepředstavuje zásah do jeho osobnostních práv (čl. 10 Listiny základních práv a svobod), nýbrž je projevem dozoru nad dodržováním podmínek a omezení pro výkon určitých činností podle čl. 26 odst. 2 Listiny"
 
+
+<!-- LEGAL-REVISION:BEGIN id=360073bd3c0d4216dd8f generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 60a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> (1) Živnostenskou kontrolu provádějí v rámci své působnosti živnostenské úřady, které sledují, zda a jak jsou plněny povinnosti stanovené živnostenským zákonem, ustanoveními zvláštních právních předpisů vztahujícími se na živnostenské podnikání, poskytování služeb podle [[#§ 69a|§ 69a]] a na podmínky provozování živnosti uložené v rozhodnutí o udělení koncese.
+>
+> (2) Živnostenské úřady kontrolují dodržování povinností při značení lihu a nakládání s lihem podle zákona upravujícího povinné značení lihu, pokud porušení těchto povinností zjistí při výkonu své jiné působnosti, a dodržování povinností při značení tabákových výrobků podle zákona upravujícího spotřební daně. Zjistí-li, že došlo k porušení povinnosti, sdělí tuto skutečnost bezodkladně správci spotřební daně.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 69a
+
+###### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=360073bd3c0d4216dd8f -->
+
 #### Pojem „živnostenský úřad" — třístupňová soustava
 
 Pojem „živnostenský úřad" je v ŽZ legislativní zkratkou pro **třístupňovou soustavu** orgánů, jejichž působnost se v rámci kontroly i jiných úkonů prolíná:
@@ -108,6 +156,52 @@ Tento model „součinnostní" kontroly je projevem zásady hospodárnosti veře
 
 - *NSS* [47 A 39/2013 - 94](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/537443) — 18. 12. 2015
   > „Průkaz kontrolního pracovníka (služební průkaz) obsahující pověření podle § 9 zákona č. 552/1991 Sb., o státní kontrole, osvědčuje, že tento pracovník je oprávněn vykonávat kontrolní činnost v rámci živnostenské kontroly (§ 60b zákona č. 455/1991 Sb., o živnostenském podnikání). Tento průkaz současně představuje pověření k provedení kontroly ve smyslu § 12 odst. 2 písm. a) zákona o státní kontrole. Kontrolní pracovník nemusí v takovém případě kromě průkazu kontrolního pracovníka předkládat ještě speciální pověření k provedení každé konkrétní kontroly"
+
+
+<!-- LEGAL-REVISION:BEGIN id=7b06bf1b32690f3bff01 generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 60b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> Vydává-li obec nebo kraj průkaz osoby vykonávající kontrolu, prokazují se zaměstnanci živnostenského úřadu při kontrole tímto průkazem. Nevydává-li obec nebo kraj průkaz podle věty první, prokazují se zaměstnanci živnostenského úřadu vykonávající kontrolu písemným pověřením k jednotlivé kontrole. Poskytnutí informací o výsledku kontroly u podnikatele nebo o výsledku správního řízení vedeného s podnikatelem jinému správnímu orgánu na základě jeho žádosti a pro účely kontroly nebo správního řízení není porušením mlčenlivosti zaměstnance podle zvláštního právního předpisu39).
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+###### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7b06bf1b32690f3bff01 -->
 
 #### Identifikace kontrolujícího — průkaz vs. pověření
 
@@ -225,6 +319,52 @@ Podnikatel má bezpodmínečné právo přizvat ke kontrole zvolenou třetí oso
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=355556096fe6419145c6 generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 60c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> Podnikatel je oprávněn přizvat v průběhu kontroly jím zvolenou třetí osobu. Nepřítomnost třetí osoby není důvodem k přerušení kontroly.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+###### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=355556096fe6419145c6 -->
+
 #### § 60d — Rozhodnutí o odstranění nedostatků
 
 > **§ 60d**
@@ -234,6 +374,54 @@ Podnikatel má bezpodmínečné právo přizvat ke kontrole zvolenou třetí oso
 > *(2) Odvolání proti rozhodnutí podle odstavce 1 nemá odkladný účinek.*
 
 **Výklad:**
+
+
+<!-- LEGAL-REVISION:BEGIN id=fc1d22c1b9a124002b3b generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 60d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> (1) Živnostenský úřad může rozhodnutím uložit podnikateli odstranění nedostatků zjištěných při provozování živnosti.
+>
+> (2) Odvolání proti rozhodnutí podle odstavce 1 nemá odkladný účinek.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+###### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fc1d22c1b9a124002b3b -->
 
 #### Povaha rozhodnutí dle § 60d — opatření k nápravě
 
@@ -362,6 +550,84 @@ Inverze odkladného účinku odráží **veřejný zájem na rychlém odstraněn
 - *NSS* [4 As 13/2004 - 55](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/237797) — 23. 12. 2005
   > „pro posouzení, zda se jedná o živnost, rozhodující, zda byly naplněny všechny znaky zákonné definice živnosti. Podle § 2 živnostenského zákona je živností soustavná činnost provozovaná samostatně, vlastním jménem, na vlastní odpovědnost, za účelem dosažení zisku a za podmínek stanovených tímto zákonem"
 
+
+<!-- LEGAL-REVISION:BEGIN id=8110b37f2d06ab375813 generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 61 — Přestupky fyzických osob
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> (1) Fyzická osoba se dopustí přestupku tím, že
+>
+> - a) jako správce pozůstalosti povolaný zemřelým podnikatelem, anebo vykonavatel závěti, náleží-li mu správa pozůstalosti, nebo osoba uvedená v § 13 odst. 1 písm. b), c) nebo e) v rozporu s § 13 odst. 2 neustanoví odpovědného zástupce, nebo
+>
+> - b) jako správce pozůstalosti jmenovaný soudem, svěřenský, likvidační nebo insolvenční správce v rozporu s § 13 odst. 4 neoznámí, že hodlá pokračovat v provozování živnosti, nebo neustanoví odpovědného zástupce.
+>
+> (2) Fyzická osoba se dopustí přestupku tím, že předloží nepravdivé čestné prohlášení o bezúhonnosti podle
+>
+> - a) § 46 odst. 1 písm. a), je-li občanem jiného členského státu Evropské unie, nebo
+>
+> - b) § 46 odst. 1 písm. b), je-li občanem jiného státu než členského státu Evropské unie.
+>
+> (3) Fyzická osoba se dopustí přestupku dále tím, že provozuje činnost, která je
+>
+> - a) živností volnou, aniž by pro tuto živnost měla živnostenské oprávnění,
+>
+> - b) předmětem živnosti řemeslné nebo vázané, aniž by pro tuto živnost měla živnostenské oprávnění, nebo
+>
+> - c) předmětem živnosti koncesované, aniž by pro tuto živnost měla živnostenské oprávnění.
+>
+> (4) Za přestupek lze uložit pokutu
+>
+> - a) do 10 000 Kč, jde-li o přestupek podle odstavce 1,
+>
+> - b) do 100 000 Kč, jde-li o přestupek podle odstavce 2,
+>
+> - c) do 500 000 Kč, jde-li o přestupek podle odstavce 3 písm. a),
+>
+> - d) do 750 000 Kč, jde-li o přestupek podle odstavce 3 písm. b),
+>
+> - e) do 1 000 000 Kč, jde-li o přestupek podle odstavce 3 písm. c).
+>
+> (5) Přestupky podle odstavců 2 a [[#§ 3|3]] nelze projednat příkazem na místě.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 13, § 46, § 3
+
+###### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8110b37f2d06ab375813 -->
+
 #### Tři skupiny skutkových podstat
 
 § 61 sdružuje **tři kvalitativně odlišné skupiny** přestupků fyzických osob:
@@ -472,6 +738,134 @@ Pro přestupky podle odst. 2 (nepravdivé prohlášení) a odst. 3 (neoprávněn
 
 - *NSS* [6 As 5/2023 - 23](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/718021) — 24. 1. 2024
   > „Z důvodových zpráv k zákonům č. 130/2008 Sb. a č. 356/1999 Sb. dovodil, že sídlo podnikatele má svůj význam jako jedno z kontaktních míst podnikatele. Není pak rozhodné, že ke kontaktu s podnikatelem v jeho sídle dojde zřídka, či že je takový kontakt nepravděpodobný. Zákonodárce pro potřebu realizace těchto kontaktů stanovil povinnost viditelně označit objekt sídla vyjmenovanými identifikátory podnikatele"
+
+
+<!-- LEGAL-REVISION:BEGIN id=5af8f9f0b0ed79662d41 generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 62
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> (1) Právnická osoba jako podnikatel nebo podnikající fyzická osoba se dopustí přestupku tím, že
+>
+> - a) v rozporu s § 7 odst. 6 nezajistí výkon činností, které jsou obsahem živností uvedených v příloze č. 5, pouze fyzickými osobami splňujícími požadavky odborné způsobilosti nebo nevede a neuchovává po zákonem stanovenou dobu o těchto osobách evidenci a nebo neuchovává po zákonem stanovenou dobu kopie dokladů o jejich odborné způsobilosti,
+>
+> - b) neoznámí živnostenskému úřadu ustanovení odpovědného zástupce pro živnost ohlašovací nebo ukončení výkonu jeho funkce podle § 11 odst. 5,
+>
+> - c) v rozporu s § 11 odst. 7 nepředloží živnostenskému úřadu ke schválení ustanovení odpovědného zástupce pro živnost koncesovanou nebo neoznámí živnostenskému úřadu ukončení výkonu jeho funkce,
+>
+> - d) neustanoví nového odpovědného zástupce podle § 11 odst. 8,
+>
+> - e) v rozporu s § 17 odst. 3
+>
+> - 1. neprokáže na žádost živnostenského úřadu právní důvod pro užívání provozovny, nebo oprávněnost umístění mobilní provozovny, nebo
+>
+> - 2. neoznámí předem zahájení nebo ukončení provozování živnosti v provozovně,
+>
+> - f) v rozporu s § 17 odst. 4 neustanoví osobu odpovědnou za činnost provozovny,
+>
+> - g) neoznačí provozovnu podle § 17 odst. 7, [[#§ 8|8]] nebo [[#§ 9|9]],
+>
+> - h) v rozporu s § 17 odst. 10 umožní prodejem zboží nebo poskytováním služeb pomocí automatů obsluhovaných spotřebitelem získat určité druhy zboží osobám chráněným zvláštními právními předpisy,
+>
+> - i) poruší některou z podmínek stanovených nebo změněných živnostenským úřadem pro provozování koncesované živnosti podle § 27 odst. 3,
+>
+> - j) v rozporu s § 28 odst. 1 bez ohlášení provozuje činnost, která je oborem činnosti živnosti volné podle přílohy č. 6 k tomuto zákonu,
+>
+> - k) v rozporu s § 31 odst. 2 neoznačí sídlo nebo odštěpný závod,
+>
+> - l) neprokáže kontrolnímu orgánu způsob nabytí prodávaného zboží nebo materiálu podle § 31 odst. 3,
+>
+> - m) v rozporu s § 31 odst. 4 neidentifikuje účastníka smluvního vztahu nebo předmět smluvního vztahu, nebo nevede evidenci o účastnících nebo předmětu smluvního vztahu, nebo nemá tuto evidenci přístupnou v provozovně, v níž dochází k identifikaci a kde se toto zboží nachází,
+>
+> - n) neeviduje nebo neuchovává identifikační údaje podle § 31 odst. 6,
+>
+> - o) v rozporu s § 31 odst. 7 koupí zboží nebo ho přijme do zástavy nebo zprostředkuje jeho nákup,
+>
+> - p) nezajistí, aby v provozovně určené pro prodej zboží nebo poskytování služeb spotřebitelům byla v prodejní nebo provozní době určené pro styk se spotřebiteli přítomna osoba splňující podmínku znalosti českého nebo slovenského jazyka podle § 31 odst. 8,
+>
+> - q) nezajistí, aby jeho zaměstnanci prokázali splnění podmínky bezúhonnosti podle § 31 odst. 9,
+>
+> - r) neoznámí živnostenskému úřadu pokračování v provozování živnosti podle § 31 odst. 12,
+>
+> - s) nevydá na žádost zákazníka doklad o prodeji zboží nebo poskytnutí služby, nebo na dokladu neuvede zákonem stanovené údaje podle § 31 odst. 14,
+>
+> - t) v rozporu s § 31 odst. 15 nesdělí na žádost živnostenského úřadu, zda provozuje živnost, nebo nedoloží doklady prokazující provozování živnosti,
+>
+> - u) v rozporu s § 31 odst. 16 neoznámí při ukončení činnosti v provozovně živnostenskému úřadu adresu místa, kde lze vypořádat případné závazky,
+>
+> - v) v rozporu s § 31 odst. 17 zaměstnává zaměstnance, kteří nemají způsobilost pro výkon povolání stanovenou zvláštními právními předpisy nebo znalost bezpečnostních předpisů anebo předpisů upravujících ochranu veřejného zdraví,
+>
+> - w) v rozporu s § 49 odst. 1 neoznámí živnostenskému úřadu ve stanovené lhůtě změny a doplnění týkající se údajů a dokladů, které jsou stanoveny pro ohlášení živnosti, nebo nepředloží doklady o nich, s výjimkou neoznámení změny oboru činnosti u živnosti volné, který nepodléhá povinnému ohlášení, nebo
+>
+> - x) v rozporu s § 56 odst. 1 neoznámí živnostenskému úřadu ve stanovené lhůtě změny a doplnění týkající se údajů a dokladů, které jsou stanoveny jako náležitosti žádosti o koncesi, nebo nepředloží doklady o nich.
+>
+> (2) Podnikající fyzická osoba uvedená v § 69a odst. 1 se při dočasném poskytování služeb dopustí přestupku tím, že
+>
+> - a) v rozporu s § 69a odst. 4 písm. a) neprokáže při kontrole oprávněnost poskytování služeb,
+>
+> - b) v rozporu s § 69a odst. 4 písm. b) a § 7 odst. 6 nezajistí výkon činností, které jsou obsahem živností uvedených v příloze č. 5, pouze fyzickými osobami splňujícími požadavky odborné způsobilosti, nebo
+>
+> - c) v rozporu s § 69a odst. 5 uznávacímu orgánu neoznámí poskytování služeb v činnosti, která je živností a pro jejíž provozování se vyžaduje splnění zvláštní podmínky odborné způsobilosti podle [[#§ 7|§ 7]].
+>
+> (3) Právnická osoba uvedená v § 69a odst. 2 se při dočasném poskytování služeb dopustí přestupku tím, že
+>
+> - a) v rozporu s § 69a odst. 4 písm. a) neprokáže při kontrole oprávněnost poskytování služeb,
+>
+> - b) v rozporu s § 69a odst. 4 písm. b) a § 7 odst. 6 nezajistí výkon činností, které jsou obsahem živností uvedených v příloze č. 5, pouze fyzickými osobami splňujícími požadavky odborné způsobilosti, nebo
+>
+> - c) v rozporu s § 69a odst. 5 neoznámí uznávacímu orgánu poskytování služeb v činnosti, která je živností a pro jejíž provozování se vyžaduje splnění zvláštní podmínky odborné způsobilosti podle [[#§ 7|§ 7]].
+>
+> (4) Za přestupek lze uložit pokutu
+>
+> - a) do 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. h), l), m), n), o), s), u), v),
+>
+> - b) do 500 000 Kč, jde-li o přestupek podle odstavce 1 písm. j),
+>
+> - c) do 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), c), d), e), f), g), i), k), p), q), t), nebo podle odstavce 2 nebo podle odstavce 3,
+>
+> - d) do 50 000 Kč, jde-li o přestupek podle odstavce 1 písm. b),
+>
+> - e) do 20 000 Kč, jde-li o přestupek podle odstavce 1 písm. w), x),
+>
+> - f) do 10 000 Kč, jde-li o přestupek podle odstavce 1 písm. r).
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7, § 11, § 17, § 8, § 9, § 27, § 28, § 31, § 49, § 56, § 69a
+
+###### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5af8f9f0b0ed79662d41 -->
 
 #### Systematika přestupků dle § 62 odst. 1
 
@@ -637,6 +1031,70 @@ Odst. 3 vylučuje příkaz na místě obdobně jako u § 61 odst. 5 — vyžaduj
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4cc40b07619f762d8f80 generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 63
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> (1) Právnická osoba se dopustí přestupku dále tím, že provozuje činnost, která je
+>
+> - a) živností volnou,
+>
+> - b) předmětem živnosti řemeslné nebo vázané, nebo
+>
+> - c) předmětem živnosti koncesované,
+>
+> aniž by pro tuto živnost měla živnostenské oprávnění.
+>
+> (2) Za přestupek lze uložit pokutu
+>
+> - a) do 500 000 Kč, jde-li o přestupek podle odstavce 1 písm. a),
+>
+> - b) do 750 000 Kč, jde-li o přestupek podle odstavce 1 písm. b),
+>
+> - c) do 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. c).
+>
+> (3) Přestupek podle odstavce 1 nelze projednat příkazem na místě.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+###### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4cc40b07619f762d8f80 -->
+
 #### § 64 — Společná procesní ustanovení k přestupkům
 
 > **§ 64**
@@ -648,6 +1106,54 @@ Odst. 3 vylučuje příkaz na místě obdobně jako u § 61 odst. 5 — vyžaduj
 > *(2) Pokuty vybírá a vymáhá orgán, který je uložil.*
 
 **Výklad:**
+
+
+<!-- LEGAL-REVISION:BEGIN id=f9076510efeed69373b3 generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 64 — Společná ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> (1) Přestupky podle tohoto zákona v prvním stupni projednávají obecní živnostenské úřady.
+>
+> (2) Pokuty vybírá a vymáhá orgán, který je uložil.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+###### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f9076510efeed69373b3 -->
 
 #### Věcná příslušnost (odst. 1) — obecní živnostenský úřad
 
@@ -725,6 +1231,66 @@ Přestupky dle ŽZ projednávají v I. stupni **obecní živnostenské úřady**
 
 **Výklad:**
 
+
+<!-- LEGAL-REVISION:BEGIN id=513e371e3e117e9ae5df generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 67
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> (1) Adresou na území České republiky se pro účely tohoto zákona rozumí kombinace údajů o adresním místě zapsaná v základním registru územní identifikace, adres a nemovitostí71). Adresa se do živnostenského rejstříku zapisuje v rozsahu následujících údajů:
+>
+>   - a) název obce nebo vojenského újezdu, v hlavním městě Praze se za názvem obce uvede číslo městského obvodu,
+>
+>   - b) název části obce, v hlavním městě Praze název katastrálního území,
+>
+>   - c) poštovní směrovací číslo přidělené adresnímu místu,
+>
+>   - d) název ulice, pokud je v registru územní identifikace, adres a nemovitostí zapsán,
+>
+>   - e) číslo popisné nebo evidenční,
+>
+>   - f) číslo orientační, pokud bylo přiděleno, včetně dodatku.
+>
+> (2) Adresa mimo území České republiky se do živnostenského rejstříku zapisuje v rozsahu údajů název obce a regionu, název ulice a číslo domu, poštovní směrovací číslo a název státu.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+###### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=513e371e3e117e9ae5df -->
+
 #### Vazba na základní registr RÚIAN
 
 § 67 odst. 1 navazuje na **základní registr územní identifikace, adres a nemovitostí (RÚIAN)** zřízený zákonem č. 111/2009 Sb. o základních registrech. RÚIAN je referenční zdroj adresních údajů ve veřejné správě — všechny živnostenské rejstříky čerpají údaje z tohoto registru, čímž se zajišťuje **konzistence údajů napříč veřejnou správou** (tzv. princip „jedno místo, jedna pravda").
@@ -788,6 +1354,54 @@ Adresa na území ČR se do živnostenského rejstříku zapisuje **výhradně j
 > *(2) Živnostenské úřady ve lhůtě 30 dnů ode dne zjištění informují jednotlivé specializované orgány, zejména orgány dozírající na dodržování hygienických, bezpečnostních a požárních předpisů a orgány České obchodní inspekce, o porušování příslušných zvláštních předpisů osobami provozujícími činnost, která je předmětem živnosti.*
 
 **Výklad:**
+
+
+<!-- LEGAL-REVISION:BEGIN id=4cd16e831c11df23cb61 generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 68 — Součinnost orgánů státní správy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> (1) Orgány, provádějící kontrolu podle zvláštních předpisů vzájemně spolupracují, zasílají opis rozhodnutí, kterým bylo rozhodnuto o závažném porušení zvláštních předpisů podnikatelem, příslušnému živnostenskému úřadu ve lhůtě 30 dnů ode dne nabytí právní moci tohoto rozhodnutí. V téže lhůtě příslušnému živnostenskému úřadu oznamují i případy neoprávněného podnikání zjištěné při výkonu jejich činnosti. Tím není dotčena povinnost mlčenlivosti stanovená zvláštním zákonem.42)
+>
+> (2) Živnostenské úřady ve lhůtě 30 dnů ode dne zjištění informují jednotlivé specializované orgány, zejména orgány dozírající na dodržování hygienických, bezpečnostních a požárních předpisů a orgány České obchodní inspekce, o porušování příslušných zvláštních předpisů osobami provozujícími činnost, která je předmětem živnosti.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+###### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4cd16e831c11df23cb61 -->
 
 #### Obousměrná informační síť dozorových orgánů
 
@@ -866,6 +1480,66 @@ Třetí věta odst. 1 chrání oblasti, kde mlčenlivost je zákonem absolutizov
 > *(6) U osob poskytujících služby v regulovaných činnostech, které jsou živnostmi, je živnostenský úřad oprávněn při kontrole podle § 60a kontrolovat splnění povinnosti písemně oznámit poskytování služby uznávacímu orgánu44). Živnostenský úřad může kontrolovat též plnění povinnosti osoby poskytující služby zajistit výkon činností, které jsou obsahem živností uvedených v příloze č. 5 k tomuto zákonu, pouze fyzickými osobami splňujícími požadavky odborné způsobilosti.*
 
 **Výklad:**
+
+
+<!-- LEGAL-REVISION:BEGIN id=45b0c006b3a821bf2b0d generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 69a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> (1) Občan členského státu Evropské unie, který je na území členského státu Evropské unie oprávněn provozovat podnikatelskou činnost, může na území České republiky dočasně poskytovat služby v rozsahu svého podnikatelského oprávnění v souladu s čl. 56 a následujícími [[Smlouvy o fungování Evropské unie|Smlouvy o fungování Evropské unie]].
+>
+> (2) Právnická osoba, jejíž vnitřní poměry se řídí právem členského státu Evropské unie a která má sídlo, ústřední správu nebo hlavní místo své podnikatelské činnosti v některém z členských států Evropské unie a je na území členského státu Evropské unie oprávněna provozovat podnikatelskou činnost, může na území České republiky dočasně poskytovat služby v rozsahu svého podnikatelského oprávnění v souladu s čl. 56 a následujícími [[Smlouvy o fungování Evropské unie|Smlouvy o fungování Evropské unie]].
+>
+> (3) Občané dalších smluvních států Dohody o Evropském hospodářském prostoru, občané Švýcarské konfederace a právnické osoby se sídlem na území těchto států se považují pro účely tohoto ustanovení za osoby uvedené v odstavci 1 nebo [[#§ 2|2]].
+>
+> (4) Na poskytování služeb podle tohoto paragrafu se další ustanovení tohoto zákona nevztahují, s výjimkou
+>
+>   - a) povinnosti prokázat při kontrole podle [[#§ 60a|§ 60a]] oprávněnost poskytování služeb, a to průkazem totožnosti, dokladem osvědčujícím státní příslušnost, dokladem o tom, že osoba poskytující služby je usazena v členském státě původu a v souladu s jeho právními předpisy vykonává předmětnou činnost, a
+>
+>   - b) povinnosti osoby poskytující služby zajistit výkon činností, které jsou obsahem živností uvedených v příloze č. 5 k tomuto zákonu, pouze fyzickými osobami splňujícími požadavky odborné způsobilosti, které tato příloha stanoví; podmínka odborné způsobilosti pro účely této přílohy se považuje za splněnou, doloží-li osoba poskytující služby za osoby v závislém postavení vykonávající činnosti podle tohoto zákona doklad o jejich vzdělání, které je v členském státě původu odborně připravuje pro výkon předmětné regulované činnosti, nebo není-li předmětná činnost v členském státě původu regulována, doklad o tom, že předmětnou činnost vykonávaly v jednom nebo více členských státech nejméně po dobu jednoho roku během předcházejících deseti let.
+>
+> (5) Fyzické osoby uvedené v odstavci 1 poskytující služby v činnosti, která je živností a pro jejíž provozování se vyžaduje splnění zvláštní podmínky odborné způsobilosti podle [[#§ 7|§ 7]] (dále jen „regulovaná činnost“), jsou povinny písemně oznámit poskytování služeb na území České republiky uznávacímu orgánu, včetně doložení dokladů, podle zvláštního právního předpisu43). Na právnické osoby uvedené v odstavci 2 se [[§ 36a|§ 36a]] zákona [[o uznávání odborné kvalifikace|o uznávání odborné kvalifikace]] vztahuje přiměřeně. Doklad o odborné kvalifikaci nebo praxi dokládá u právnické osoby jí ustanovená osoba, která odpovídá za řádné poskytování služby.
+>
+> (6) U osob poskytujících služby v regulovaných činnostech, které jsou živnostmi, je živnostenský úřad oprávněn při kontrole podle [[#§ 60a|§ 60a]] kontrolovat splnění povinnosti písemně oznámit poskytování služby uznávacímu orgánu44). Živnostenský úřad může kontrolovat též plnění povinnosti osoby poskytující služby zajistit výkon činností, které jsou obsahem živností uvedených v příloze č. 5 k tomuto zákonu, pouze fyzickými osobami splňujícími požadavky odborné způsobilosti.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 60a, § 7, § 36a
+
+###### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=45b0c006b3a821bf2b0d -->
 
 #### Transpozice svobody poskytování služeb (čl. 56 SFEU)
 
@@ -973,6 +1647,74 @@ Porušení povinností dle § 69a odst. 4 a 5 je přestupkem dle § 62 odst. 2 a
 
 **Výklad:**
 
+
+<!-- LEGAL-REVISION:BEGIN id=dc6e67e77dcc3b30a844 generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 70
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> (1) Pro účely tohoto zákona se považuje za občana členského státu Evropské unie i
+>
+>   - a) občan jiného smluvního státu Dohody o Evropském hospodářském prostoru a občan Švýcarské konfederace,
+>
+>   - b) rodinný příslušník občana Evropské unie nebo osoby uvedené v písmenu a)61),
+>
+>   - c) osoba, která má na území České republiky povolen trvalý pobyt, a její rodinný příslušník,
+>
+>   - d) občan třetí země, kterému bylo na území České republiky nebo jiného členského státu Evropské unie přiznáno právní postavení dlouhodobě pobývajícího rezidenta62),
+>
+>   - e) občan třetí země, kterému byl na území České republiky nebo jiného členského státu Evropské unie povolen pobyt za účelem vědeckého výzkumu, studia, stáže nebo dobrovolnické služby v Evropské dobrovolné službě63),
+>
+>   - f) rodinný příslušník osoby uvedené v písmenu d) nebo e), kterému byl na území České republiky povolen dlouhodobý pobyt64),
+>
+>   - g) občan třetí země, který je obětí obchodování s lidmi nebo obdržel pomoc k nedovolenému přistěhovalectví a který spolupracuje s příslušnými orgány, byl-li mu na území České republiky nebo jiného členského státu Evropské unie povolen pobyt za tímto účelem66),
+>
+>   - h) držitel modré karty Evropské unie67).
+>
+> (2) Na osoby uvedené v odstavci 1 písm. c) až h) se nevztahuje oprávnění podle [[#§ 69a|§ 69a]].
+>
+> (3) Za právnickou osobu se sídlem na území členského státu Evropské unie se pro účely tohoto zákona považuje právnická osoba, jejíž vnitřní poměry se řídí právním řádem členského státu Evropské unie, nebo jiného smluvního státu Dohody o Evropském hospodářském prostoru, a která má sídlo, ústřední správu nebo hlavní místo své podnikatelské činnosti na území členského státu Evropské unie, nebo jiného smluvního státu Dohody o Evropském hospodářském prostoru. Za osobu podle předchozí věty se za podmínek a v rozsahu stanoveném mezinárodní smlouvou o volném pohybu osob považuje také právnická osoba, jejíž vnitřní poměry se řídí právním řádem Švýcarské konfederace a má sídlo, ústřední správu nebo hlavní místo své podnikatelské činnosti na území Švýcarské konfederace.
+>
+> (4) Pokud tento zákon požaduje předložení dokladů vydaných příslušným orgánem členského státu Evropské unie nebo výkon podnikatelské činnosti na území členského státu Evropské unie, rozumí se tím i doklady vydané příslušným orgánem smluvního státu Dohody o Evropském hospodářském prostoru a doklady vydané příslušným orgánem Švýcarské konfederace a výkon činnosti na území těchto států.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 69a
+
+###### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dc6e67e77dcc3b30a844 -->
+
 #### Funkce § 70 — rozšiřující definice „občana EU"
 
 § 70 odst. 1 představuje **legislativní zkratku „občan členského státu EU"** pro celý ŽZ. Pro účely podmínek provozování živnosti, ustanovení odpovědného zástupce, prokazování bezúhonnosti a dalších institutů ŽZ se za občana EU považuje široký okruh osob:
@@ -1062,6 +1804,62 @@ Doklady (osvědčení o odborné způsobilosti, výpisy z rejstříků apod.) vy
 
 **Výklad:**
 
+
+<!-- LEGAL-REVISION:BEGIN id=f3d45ddc2e3d81e0bd82 generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 71 — Místní příslušnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> (1) Podání podle tohoto zákona lze učinit u kteréhokoliv obecního živnostenského úřadu. K postupu podle tohoto zákona je příslušný obecní živnostenský úřad, kterému bylo podání doručeno jako prvnímu.
+>
+> (2) V řízení o zrušení živnostenského oprávnění nebo pozastavení provozování živnosti se místní příslušnost živnostenského úřadu určuje podle [[správního řádu|správního řádu]]; to neplatí, jedná-li se o zrušení živnostenského oprávnění na žádost podnikatele.
+>
+> (3) Informační povinnost soudů a jiných orgánů vyplývající ze zvláštních právních předpisů se plní u živnostenského úřadu, který je místně příslušný podle odstavce 2. Tento úřad provede příslušný zápis do živnostenského rejstříku.
+>
+> (4) Živnostenský úřad, který provede úkon, v jehož důsledku je třeba provést zápis do živnostenského rejstříku, je příslušný k provedení tohoto zápisu.
+>
+> (5) Sestavu podle § 60 odst. 6 vydává podle své územní působnosti obecní živnostenský úřad, krajský živnostenský úřad nebo Živnostenský úřad České republiky. Sestavu podle adresy sídla vydá živnostenský úřad, v jehož územním obvodu podnikatel sídlí. Sestavu podle umístění provozovny vydá živnostenský úřad, v jehož územním obvodě se provozovna nachází. Sestavu podle předmětu podnikání vydá živnostenský úřad, v jehož územním obvodě má sídlo nebo provozovnu podnikatel s požadovaným předmětem podnikání.
+>
+> (6) Uvede-li ohlašovatel živnosti v ohlášení nebo žadatel o koncesi v žádosti adresu pro doručování podle § 45 odst. 2 písm. k) nebo podle § 45 odst. 3 písm. h), jsou všechny živnostenské úřady povinny mu doručovat na uvedenou adresu; to neplatí, pokud má tato osoba zřízenu datovou schránku.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 60, § 45
+
+###### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f3d45ddc2e3d81e0bd82 -->
+
 #### Princip volby a princip „kdo první přišel" (odst. 1)
 
 § 71 odst. 1 je **klíčovou inovací** ŽZ oproti obecnému správnímu řádu: zakládá **princip volby** ohlašovatele/žadatele. Podání lze učinit u **kteréhokoliv** obecního živnostenského úřadu v ČR; příslušným se stává ten, **kterému bylo podání doručeno jako prvnímu**.
@@ -1146,6 +1944,58 @@ Inovace omezující správní zátěž — podnikatel může uvést **adresu pro
 > *(4) Podání se doručuje v elektronické podobě způsobem umožňujícím dálkový přístup s využitím komunikační infrastruktury živnostenského rejstříku, pokud to dovoluje povaha podání. Kontaktní místo veřejné správy zašle neprodleně obecnímu živnostenskému úřadu příslušnému podle odstavce 2 listinnou podobu podání.*
 
 **Výklad:**
+
+
+<!-- LEGAL-REVISION:BEGIN id=0219892a7c333e280cb5 generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 72
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> (1) Podání podle tohoto zákona obecnímu živnostenskému úřadu lze učinit prostřednictvím kontaktního místa veřejné správy28c); to neplatí v případě žádosti o sestavu podle § 60 odst. 6.
+>
+> (2) Kontaktní místo veřejné správy přijaté podání neprodleně doručí obecnímu živnostenskému úřadu, který si podatel zvolí. Pokud si podatel obecní živnostenský úřad nezvolí, doručí se podání obecnímu živnostenskému úřadu příslušnému podle místa podání. Je-li podání učiněno u zastupitelského úřadu a nezvolí-li si podatel obecní živnostenský úřad, určuje se příslušnost obecního živnostenského úřadu podle [[správního řádu|správního řádu]].
+>
+> (3) Pokud je pro podání stanovena lhůta, je zachována, je-li posledního dne lhůty učiněno podání u kontaktního místa veřejné správy. Lhůta pro vyřízení podání počíná běžet jeho doručením včetně příloh obecnímu živnostenskému úřadu.
+>
+> (4) Podání se doručuje v elektronické podobě způsobem umožňujícím dálkový přístup s využitím komunikační infrastruktury živnostenského rejstříku, pokud to dovoluje povaha podání. Kontaktní místo veřejné správy zašle neprodleně obecnímu živnostenskému úřadu příslušnému podle odstavce 2 listinnou podobu podání.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 60
+
+###### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0219892a7c333e280cb5 -->
 
 #### Czech POINT a živnostenské podání
 
@@ -1265,6 +2115,52 @@ Ustanovení míří jak na současnou „Sbírku zákonů a mezinárodních smlu
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=12fe97b3bf38e29863be generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 73 — Mezinárodní smlouvy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> Ustanovení tohoto zákona se nepoužijí, stanoví-li něco jiného mezinárodní smlouva, jíž je Česká republika vázána a která byla vyhlášena ve Sbírce zákonů a mezinárodních smluv nebo v předcházející obdobné sbírce.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+###### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=12fe97b3bf38e29863be -->
+
 #### § 73a — Zmocnění vlády
 
 > **§ 73a**
@@ -1317,6 +2213,52 @@ Tímto zmocněním je vydáno **nařízení vlády č. 278/2008 Sb., o obsahový
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=dbec025cd245056b8d4c generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 73a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> Vláda nařízením stanoví obsahovou náplň jednotlivých živností a oborů činností živnosti volné.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+###### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dbec025cd245056b8d4c -->
+
 ### Hlava II — Přechodná a závěrečná ustanovení
 
 #### § 74 — Zachování dosavadních oprávnění (transformační ustanovení 1991/1992)
@@ -1334,6 +2276,60 @@ Tímto zmocněním je vydáno **nařízení vlády č. 278/2008 Sb., o obsahový
 > *(5) Jestliže osoby uvedené v odstavcích 3 a 4 živnostenskému úřadu doklady nepředloží nebo jimi neprokáží splnění podmínek pro provozování živnosti, živnostenské oprávnění jim nevznikne. V pochybnostech rozhodne o tom, zda podmínky provozování živnosti splněny jsou, živnostenský úřad.*
 
 **Výklad:**
+
+
+<!-- LEGAL-REVISION:BEGIN id=2c044308c0d723247235 generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 74 — Zachování dosavadních oprávnění
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> (1) V podnikatelské činnosti, která je živností podle tohoto zákona, mohou fyzické a právnické osoby pokračovat po dobu jednoho roku ode dne, kdy zákon nabude účinnosti, na základě oprávnění k podnikatelské činnosti nebo podnikatelského oprávnění, které získaly před jeho účinností. Po uplynutí lhůty tato oprávnění zanikají.
+>
+> (2) Fyzické osoby, kterým uplynutím lhůty podle odstavce 1 zanikne oprávnění k podnikatelské činnosti v živnosti volné nebo řemeslné, nabývají současně živnostenského oprávnění k těmto živnostem. Živnostenský list vydá živnostenský úřad ve lhůtě stanovené v odstavci 1.
+>
+> (3) Fyzické osoby, které ke dni nabytí účinnosti zákona mají oprávnění k podnikatelské činnosti v živnosti vázané nebo koncesované, předloží živnostenskému úřadu ve lhůtě 9 měsíců od účinnosti tohoto zákona doklady prokazující, že splňují podmínky stanovené zákonem nebo že ustanovily odpovědného zástupce, který podmínky splňuje. Za tohoto předpokladu vydá živnostenský úřad ve lhůtě 60 dnů od předložení dokladů živnostenský list nebo koncesní listinu.
+>
+> (4) Právnické osoby, které mají ke dni účinnosti zákona podnikatelské oprávnění k činnostem, které jsou živnostmi, předloží živnostenskému úřadu ve lhůtě 9 měsíců od účinnosti tohoto zákona doklady prokazující, že ustanovily odpovědného zástupce, který splňuje podmínky podle zákona. Za tohoto předpokladu vydá živnostenský úřad ve lhůtě 60 dnů od předložení dokladů živnostenský list nebo koncesní listinu.
+>
+> (5) Jestliže osoby uvedené v odstavcích 3 a [[#§ 4|4]] živnostenskému úřadu doklady nepředloží nebo jimi neprokáží splnění podmínek pro provozování živnosti, živnostenské oprávnění jim nevznikne. V pochybnostech rozhodne o tom, zda podmínky provozování živnosti splněny jsou, živnostenský úřad.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4
+
+###### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2c044308c0d723247235 -->
 
 #### Historický kontext — transformace 1991/1992
 
@@ -1462,6 +2458,56 @@ Toto ustanovení je dnes opět **historickým ustanovením** bez živé aplikace
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ba3ca8307f77d566a9ad generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 75
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> (1) Žádosti fyzických osob o registraci podnikatelské činnosti, která je živností, podané podle dosavadních předpisů, o nichž nebylo rozhodnuto před účinností tohoto zákona, se považují za ohlášení nebo za žádost o koncesi.
+>
+> (2) Žádosti o oprávnění, povolení nebo průkaz způsobilosti k činnosti, o nichž nebylo rozhodnuto před účinností tohoto zákona, se podle obsahu považují za žádost o koncesi nebo za ohlášení živnosti vázané. Příslušný orgán státní správy je postoupí živnostenskému úřadu a k žádosti o koncesi připojí stanovisko jako podklad pro rozhodnutí.
+>
+> (3) Fyzické osoby, které získaly oprávnění, povolení nebo průkaz způsobilosti a před účinností tohoto zákona nepožádaly a registraci, připojí je k žádosti o koncesi nebo k ohlášení živnosti vázané. Při rozhodování o koncesi nahrazují tyto doklady stanovisko příslušného orgánu státní správy.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+###### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ba3ca8307f77d566a9ad -->
+
 #### § 76 — Vyrovnání postavení FO a organizací
 
 > **§ 76**
@@ -1514,6 +2560,52 @@ V současnosti je § 76 marginální — všechny tyto „zvláštní předpisy"
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6beb64aa9d77da99ebc6 generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 76
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> Živnosti, které podle zvláštních předpisů mohou provozovat organizace, jsou ve stejném rozsahu a za stejných podmínek oprávněny provozovat i fyzické osoby.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+###### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6beb64aa9d77da99ebc6 -->
+
 #### § 77 — Zachování ne-živnostenských oprávnění
 
 > **§ 77**
@@ -1564,6 +2656,52 @@ Tato oprávnění **zůstávají nedotčena**, pokud zvláštní předpis nestan
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=dfebf48cea2d7349ff43 generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 77
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> Oprávnění k podnikatelské činnosti a podnikatelská oprávnění k činnostem, které nejsou živnostmi, zůstávají nedotčena, pokud zvláštní předpis nestanoví jinak.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+###### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dfebf48cea2d7349ff43 -->
+
 #### § 78 — Přidělení identifikačního čísla provozovny (technické transformační)
 
 > **§ 78**
@@ -1613,6 +2751,52 @@ Ustanovení vyčerpalo svůj normativní obsah ke dni 30. 6. 2012, je však doch
 **Typicky rozhodné důkazy / podklady:** záznam o zřízení provozovny, doklad o přidělení IČP a jeho datum, údaje z ROS, výpis z živnostenského rejstříku, archivní spis ŽÚ.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=aa5bc2c23a63be8b4ad7 generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 78
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> Živnostenský úřad příslušný obdobně podle § 71 odst. 2 části věty první před středníkem přidělí do 30. června 2012 provozovně zřízené před 1. červencem 2010 identifikační číslo provozovny poskytnuté správcem základního registru osob28d).
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 71
+
+###### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aa5bc2c23a63be8b4ad7 -->
 
 #### § 79 — Likvidace majetku pro předlužení (přechodná překážka)
 
@@ -1674,6 +2858,54 @@ Dnes je ustanovení reliktem; aktuální překážky stanoví § 8 ŽZ ve vazbě
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=800a25be79dba5a2da10 generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 79 — Likvidace majetku pro předlužení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> (1) Překážkou provozování živnosti vzniklou před nabytím účinnosti [[zákona č. 328/1991 Sb., o konkursu a vyrovnání|zákona č. 328/1991 Sb., o konkursu a vyrovnání]], se rozumí likvidace majetku pro předlužení.47)
+>
+> (2) K likvidaci majetku pro předlužení, která byla provedena před 1. lednem 1990, se nepřihlíží.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+###### Souvisící předpisy
+
+- zákon č. 328/1991 Sb. (výslovně uvedeno v místním znění)
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=800a25be79dba5a2da10 -->
+
 #### § 80 — Zrušovací ustanovení
 
 > **§ 80**
@@ -1697,6 +2929,77 @@ Dnes je ustanovení reliktem; aktuální překážky stanoví § 8 ŽZ ve vazbě
 > *    - 8. § 8 zákona č. 124/1948 Sb., o znárodnění některých hostinských a výčepnických podniků a ubytovacích zařízení.*
 
 **Výklad:**
+
+
+<!-- LEGAL-REVISION:BEGIN id=c3eeaebcafe6445cfdb9 generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 80 — Zrušovací ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> Ke dni účinnosti tohoto zákona se zrušuje:
+>
+>     - 1. [[zákon č. 105/1990 Sb., o soukromém podnikání občanů|zákon č. 105/1990 Sb., o soukromém podnikání občanů]], ve znění [[zákona č. 219/1991 Sb|zákona č. 219/1991 Sb.]], kromě [[§ 12a až 12e|§ 12a až 12e]],
+>
+>     - 2. [[§ 2|§ 2]] [[dekretu prezidenta republiky č. 100/1945 Sb., o znárodnění dolů a některých průmyslových podniků|dekretu prezidenta republiky č. 100/1945 Sb., o znárodnění dolů a některých průmyslových podniků]], ve znění [[zákona č. 114/1948 Sb., o znárodnění některých dalších průmyslových a jiných podniků a závodů a o úpravě některých poměrů znárodněných a národních podniků|zákona č. 114/1948 Sb., o znárodnění některých dalších průmyslových a jiných podniků a závodů a o úpravě některých poměrů znárodněných a národních podniků]],
+>
+>     - 3. [[§ 4|§ 4]] [[zákona č. 114/1948 Sb., o znárodnění některých dalších průmyslových a jiných podniků a závodů a o úpravě některých poměrů znárodněných a národních podniků|zákona č. 114/1948 Sb., o znárodnění některých dalších průmyslových a jiných podniků a závodů a o úpravě některých poměrů znárodněných a národních podniků]],
+>
+>     - 4. [[§ 3|§ 3]] [[zákona č. 115/1948 Sb., o znárodnění dalších průmyslových a jiných výrobních podniků a závodů v oboru potravinářském a o úpravě některých poměrů znárodněných a národních podniků tohoto oboru|zákona č. 115/1948 Sb., o znárodnění dalších průmyslových a jiných výrobních podniků a závodů v oboru potravinářském a o úpravě některých poměrů znárodněných a národních podniků tohoto oboru]], ve znění [[zákona č. 108/1950 Sb., kterým se mění a doplňují předpisy o znárodnění některých podniků průmyslu potravinářského|zákona č. 108/1950 Sb., kterým se mění a doplňují předpisy o znárodnění některých podniků průmyslu potravinářského]],
+>
+>     - 5. [[§ 3|§ 3]] [[zákona č. 120/1948 Sb., o znárodnění obchodních podniků s 50 nebo více činnými osobami|zákona č. 120/1948 Sb., o znárodnění obchodních podniků s 50 nebo více činnými osobami]],
+>
+>     - 6. [[§ 1 odst. 2|§ 1 odst. 2]] [[zákona č. 121/1948 Sb., o znárodnění ve stavebnictví|zákona č. 121/1948 Sb., o znárodnění ve stavebnictví]], ve znění [[zákona č. 58/1951 Sb., kterým se mění a doplňuje zákon o znárodnění ve stavebnictví|zákona č. 58/1951 Sb., kterým se mění a doplňuje zákon o znárodnění ve stavebnictví]],
+>
+>     - 7. [[§ 3|§ 3]] [[zákona č. 123/1948 Sb., o znárodnění polygrafických podniků|zákona č. 123/1948 Sb., o znárodnění polygrafických podniků]],
+>
+>     - 8. [[§ 8|§ 8]] [[zákona č. 124/1948 Sb., o znárodnění některých hostinských a výčepnických podniků a ubytovacích zařízení|zákona č. 124/1948 Sb., o znárodnění některých hostinských a výčepnických podniků a ubytovacích zařízení]].
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12a, § 2, § 4, § 3, § 1, § 8
+
+###### Souvisící předpisy
+
+- zákon č. 105/1990 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 219/1991 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 114/1948 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 115/1948 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 108/1950 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 120/1948 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 121/1948 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 58/1951 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 123/1948 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 124/1948 Sb. (výslovně uvedeno v místním znění)
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c3eeaebcafe6445cfdb9 -->
 
 #### Symbolický rozměr derogace 1991
 
@@ -1800,6 +3103,52 @@ Výjimka v § 80 bodu 1 zachovala § 12a–12e zákona č. 105/1990 Sb. v platno
 > *Tento zákon nabývá účinnosti dnem 1. ledna 1992.*
 
 **Výklad:**
+
+
+<!-- LEGAL-REVISION:BEGIN id=19bc3169e5744e9e53ae generator=2026-07-17.4 source_sha256=b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514 -->
+##### Revizní doplnění k § 81
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/455-1991 Zákon o živnostenském podnikání (živnostenský zákon).md`; identifikátor verze: `SB-1991-00455_2026-01-01`; SHA-256: `b03fb3fe3dcfa0f1c53d65dcd4f30d0cc63d2de02b94908385b292fffcd50514`.
+
+###### Znění ustanovení
+
+> Tento zákon nabývá účinnosti dnem 1. ledna 1992.
+
+###### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+###### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+###### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+###### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+###### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+###### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+###### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=19bc3169e5744e9e53ae -->
 
 #### Konstituující datum 1. 1. 1992
 
